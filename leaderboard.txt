@@ -1,0 +1,1 @@
+{"pujan": 0, "Lovely": 1, "hari": 3, "sita": 3}
